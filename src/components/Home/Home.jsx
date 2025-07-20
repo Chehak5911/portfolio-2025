@@ -9,11 +9,11 @@ const Home = () => {
             <TextChange />
         </h1>
         <p className="text-sm md:text-2xl tracking-tight ">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia,
-          doloremque?
+          I am a passionate developer who enjoys building modern, responsive web applications. From crafting clean UIs to writing scalable backend logic, 
+          I love bringing ideas to life through code.
         </p>
         <button className="mt-5 md:md-10 text-white py02 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
-          Contact Me
+          <a href="#Footer">Contact Me</a>
         </button>
       </div>
       <div>

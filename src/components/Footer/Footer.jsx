@@ -19,19 +19,19 @@ const Footer = () => {
         <a href="mailto:chehakbatra5911@gmail.com">
             <li className="flex gap-1 items-center">
                 <MdOutlineEmail size={20} />
-                myemail@gmail.com
+                chehakbatra5911@gmail.com
             </li>
         </a>
         <a href="https://www.linkedin.com/in/chehak-batra5911/">
             <li className="flex gap-1 items-center">
                 <CiLinkedin />
-                linkdlin.com/username
+                LinkedIn
             </li>
         </a>
         <a href="https://github.com/Chehak5911">
             <li className="flex gap-1 items-center">
                 <FaGithub />
-                github.com/username
+                GitHub
             </li>
         </a>
       </ul>

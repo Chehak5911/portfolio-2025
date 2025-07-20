@@ -6,16 +6,16 @@ const Projects = () => {
       <h1 className="text-2xl md:text-4xl text-white font-bold">Projects</h1>
       <div className="py-12 px-8 flex flex-wrap justify-between">
         <ProjectCard
-          title="Blogging Website"
-          main="this is a bloggin website created in next js and used some component library used some component library"
+        title="My Technical Blog"
+        main="A personal tech blog hosted on Hashnode where I share articles, tutorials, and insights on web development and programming."
+        primaryButtonTitle="Visit"
+        primaryButtonLink="https://hashnode.com/@chehakbatra"
         />
         <ProjectCard
-          title="Youtue Clone"
-          main="this is a bloggin website created in next js and used some component library used some component library"
-        />
-        <ProjectCard
-          title="Netflix Clone"
-          main="this is a blogging website created this ijsdjf l in next js and used some component library used some component library"
+          title="GoodReads Clone"
+          main="A responsive web application inspired by GoodReads, where users can sign up, log in, explore books, organize them into shelves, and manage their reading journey via a personalized dashboard."
+          primaryButtonTitle="Source Code"
+          primaryButtonLink="https://github.com/Chehak5911/GoodReads_Frontend"
         />
       </div>
     </div>
