@@ -17,6 +17,13 @@ const Projects = () => {
           primaryButtonTitle="Source Code"
           primaryButtonLink="https://github.com/Chehak5911/GoodReads_Frontend"
         />
+        <ProjectCard
+          title="Sudoku Game"
+          main="A simple single-page application designed by utilizing the backtracking algorithm.
+          You can get a new board or answer to the current one anytime."
+          primaryButtonTitle="Demo"
+          primaryButtonLink="https://sudokugames.netlify.app/"
+        />
       </div>
     </div>
   );
